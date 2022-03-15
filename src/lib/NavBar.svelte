@@ -12,7 +12,7 @@
 <main>
 	<nav class="navbar bg-base-100">
 		<div class="flex-1">
-			<a class="btn btn-ghost normal-case text-5xl" href="/">qrr.re</a>
+			<a class="btn btn-ghost normal-case text-5xl" href="/">🔲&nbsp;qrr.re</a>
 		</div>
 		<div class="flex-none">
 			<label class="swap swap-rotate p-0">
