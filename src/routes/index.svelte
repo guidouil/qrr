@@ -6,7 +6,6 @@
 	let targetUrl = 'https://qrr.re';
 	let qrSvg = '';
 	const makeQrCode = () => {
-		console.log(targetUrl);
 		if (targetUrl) {
 			const options = {
 				type: 'svg',
@@ -66,5 +65,19 @@
 		<div class="max-w-2xl">
 			{@html qrSvg}
 		</div>
+	</div>
+	<div class="divider" />
+	<div class="max-w-lg mx-auto px-8 text-lg">
+		<p class="">
+			Ici pas de chichis, <strong>on ne stock rien</strong>. Ni ce que vous creez, ni une miette de
+			cookie.
+		</p>
+		<p>Faites bon usage de ces QR Codes.</p>
+		<p>
+			Les plus curieux peuvent
+			<a class="link" href="https://github.com/guidouil/qrr" target="_blank">
+				consulter le code source
+			</a>.
+		</p>
 	</div>
 </main>
