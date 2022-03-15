@@ -75,9 +75,9 @@
 		<p>Faites bon usage de ces QR Codes.</p>
 		<p>
 			Les plus curieux peuvent
-			<a class="link" href="https://github.com/guidouil/qrr" target="_blank">
-				consulter le code source
-			</a>.
+			<a class="link" href="https://github.com/guidouil/qrr" target="_blank"
+				>consulter le code source</a
+			>.
 		</p>
 	</div>
 </main>
